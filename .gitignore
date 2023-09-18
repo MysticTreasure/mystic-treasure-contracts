@@ -1,0 +1,11 @@
+node_modules/
+build_bk/
+.env
+.idea/
+package-lock.json
+artifacts/
+coverage/
+coverage.json
+.gitbk
+.openzeppelin
+build/
